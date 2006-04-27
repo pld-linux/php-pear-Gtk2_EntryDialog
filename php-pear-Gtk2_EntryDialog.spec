@@ -5,7 +5,7 @@
 %define		_pearname	Gtk2_EntryDialog
 
 Summary:	%{_pearname} - Message box with text entry field
-Summary(pl):	%{_pearname} - Message box z polem na wpisanie tekstu
+Summary(pl):	%{_pearname} - Okno komunikatu z polem na wpisanie tekstu
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1

@@ -5,7 +5,7 @@
 %define		_pearname	Gtk2_EntryDialog
 
 Summary:	%{_pearname} - Message box with text entry field
-Summary(pl):	%{_pearname} - Okno komunikatu z polem na wpisanie tekstu
+Summary(pl.UTF-8):   %{_pearname} - Okno komunikatu z polem na wpisanie tekstu
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 Release:	1
@@ -27,8 +27,8 @@ Gtk2 message box with additional text entry field.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Pakiet dostarcza klasy do obs≥ugi okna wiadomo∂ci Gtk2 z polem na
+%description -l pl.UTF-8
+Pakiet dostarcza klasy do obs≈Çugi okna wiadomo≈õci Gtk2 z polem na
 wpisanie tekstu.
 
 Ta klasa ma w PEAR status: %{_status}.

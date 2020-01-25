@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		stable
 %define		_pearname	Gtk2_EntryDialog
 Summary:	%{_pearname} - Message box with text entry field
